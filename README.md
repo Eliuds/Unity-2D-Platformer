@@ -27,4 +27,8 @@ The game over scene was used for both losing and winning.![Death screen](https:/
 ## Sprites
 The sprite was an asset i implemented from the unity asset store.
 
+##Stage
+The stage was just a simple platforms i added:![Level](https://user-images.githubusercontent.com/96641564/173690780-6ea591ec-c442-4942-a2ab-e01411523b78.gif)
+
+
 
