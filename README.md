@@ -21,7 +21,8 @@ The transitions for the scene was made with the SceneLoader Prefab:![Start scree
 
 
 
-The game over scene was used for both losing and winning.
+The game over scene was used for both losing and winning.![Death screen](https://user-images.githubusercontent.com/96641564/173690441-2aa5dbb1-9410-4741-8090-32239194f15f.gif)
+
 
 ## Sprites
 The sprite was an asset i implemented from the unity asset store.
